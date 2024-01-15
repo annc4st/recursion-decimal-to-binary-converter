@@ -1,4 +1,4 @@
-# recursion-decimal-to-binary-converter
+# Decimal to binary converter using recursion
 
 While coding this mini app learnt how to manually convert decimal number to binary. 
 Used recursive function to convert decimal number to binary. Explored the call stack.
